@@ -1,0 +1,12 @@
+# Datos personales / ideas
+*.json
+*.pdf
+*.txt
+
+# Backups
+backup/
+data/
+
+# Editor
+.vscode/
+.DS_Store
