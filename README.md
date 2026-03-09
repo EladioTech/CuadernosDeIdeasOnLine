@@ -7,3 +7,7 @@ Tecnologías:
 - HTML
 - CSS
 - JavaScript
+
+Este proyecto ha evolucionado hacia:
+
+Mesita de Noche
